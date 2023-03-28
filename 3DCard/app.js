@@ -10,6 +10,7 @@ container.addEventListener('mousemove', (e) => {
 }) 
 
 container.addEventListener('mouseenter', (e) => {
+	
 	card.style.transition = 'none';
 })
 
